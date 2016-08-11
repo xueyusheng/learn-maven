@@ -66,8 +66,7 @@
   <distributionManagement>
     <repository>
       <id>maven-repo</id>
-      <!-- <url>file:/home/xueyusheng/mygithub/maven-repo/</url> -->
-       <url>https://raw.githubusercontent.com/xueyusheng/maven-repo/master</url>
+      <url>file:/home/xueyusheng/mygithub/maven-repo/</url> 
     </repository>
   </distributionManagement>
 </project>
